@@ -41,7 +41,7 @@ const Course = ({course}) =>{
     <Total course={course} />
     </div>
   )
-  //aca deberia poner algo que reciba las props de course y lo mande a const header?
+
 }
 
 const App = () => {
